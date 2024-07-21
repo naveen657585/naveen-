@@ -1,0 +1,25 @@
+div{
+    padding: 30px;
+    background-color: rgb(2, 17, 14);
+    display: inline-block;
+    border: solid 5px;
+    border-radius: 15px;
+}
+button{
+    padding: 25px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border: none;
+    background-color: rgb(114, 201, 241);
+}
+input{
+    padding: 20px;
+    border-radius: 3px;
+    width: 400px;
+    font-size: large;
+    text-align: end;
+    border: none;
+    font-weight: bold;
+}
